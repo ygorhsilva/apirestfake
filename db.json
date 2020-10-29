@@ -10,63 +10,63 @@
     {
       "id" : 2,
       "nome": "gui canos",
-      "telefone": 61 5234-4673,
+      "telefone": 61 52344673,
       "avaliaçao": 3,
       "categoria_id": 1	
     },	
     {
       "id" : 3,
       "nome": "caio fios",
-      "telefone": 61 5234-7532,
+      "telefone": 61 52347532,
       "avaliaçao": 4,
       "categoria_id": 2	
     },
     {
       "id" : 4,
       "nome": "rafa canos",
-      "telefone": 61 5234-5479,
+      "telefone": 61 52345479,
       "avaliaçao": 3,
       "categoria_id": 1	
     },	
     {
       "id" : 5,
       "nome": "rafa encanamento",
-      "telefone": 61 5234-6754,
+      "telefone": 61 52346754,
       "avaliaçao": 2,
       "categoria_id": 1	
     },	
     {
       "id" : 6,
       "nome":" maria porta",
-      "telefone": 61 5234-4324,
+      "telefone": 61 52344324,
       "avaliaçao": 3,
       "categoria_id": 3
     },	
     {
       "id" : 7,
       "nome":" luiza fios",
-      "telefone": 61 5234-6788,
+      "telefone": 61 52346788,
       "avaliaçao": 5,
       "categoria_id": 2	
     },	
     {
       "id": 8,
       "nome": "jorge chaveiro",
-      "telefone": 61 5234-8967,
+      "telefone": 61 52348967,
       "avaliaçao": 1,
       "categoria_id": 3	
     },	
     {
       "id" : 9,
       "nome": "san agua",
-      "telefone": 61 5234-4231,
+      "telefone": 61 52344231,
       "avaliaçao": 3,
       "categoria_id": 1	
     },
     {
       "id" : 10,
       "nome":" yago choque",
-      "telefone": 61 5234-9034,
+      "telefone": 61 52349034,
       "avaliaçao": 5,
       "categoria_id": 2	
     }
