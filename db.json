@@ -16,70 +16,70 @@
   "serviços": [
     {
       "id" : 1,
-      "nome": joao chave,
+      "nome": "joao chave",
       "telefone": 61 5234-4234,
       "avaliaçao": 5,
       "categoria_id": 3	
     },
     {
       "id" : 2,
-      "nome": gui canos,
+      "nome": "gui canos",
       "telefone": 61 5234-4673,
       "avaliaçao": 3,
       "categoria_id": 1	
     },	
     {
       "id" : 3,
-      "nome": caio fios,
+      "nome": "caio fios",
       "telefone": 61 5234-7532,
       "avaliaçao": 4,
       "categoria_id": 2	
     },
         {
       "id" : 4,
-      "nome": rafa canos,
+      "nome": "rafa canos",
       "telefone": 61 5234-5479,
       "avaliaçao": 3,
       "categoria_id": 1	
     },	
     {
       "id" : 5,
-      "nome: rafa encanamento,
+      "nome: "rafa encanamento",
       "telefone: 61 5234-6754,
       "avaliaçao: 2,
-      "categoria_id: 1	
+      "categoria_id": 1	
     },	
     {
       "id" : 6,
-      "nome": maria porta,
+      "nome":" maria porta",
       "telefone": 61 5234-4324,
       "avaliaçao": 3,
       "categoria_id": 3
     },	
     {
       "id" : 7,
-      "nome": luiza fios,
+      "nome":" luiza fios",
       "telefone": 61 5234-6788,
       "avaliaçao": 5,
       "categoria_id": 2	
     },	
     {
       "id" 8: ,
-      "nome": jorge chaveiro,
+      "nome": "jorge chaveiro",
       "telefone": 61 5234-8967,
       "avaliaçao": 1,
       "categoria_id": 3	
     },	
     {
       "id" : 9,
-      "nome": san agua,
+      "nome": "san agua",
       "telefone": 61 5234-4231,
       "avaliaçao": 3,
       "categoria_id": 1	
     },
     {
       "id" : 10,
-      "nome": yago choque,
+      "nome":" yago choque",
       "telefone": 61 5234-9034,
       "avaliaçao": 5,
       "categoria_id": 2	
