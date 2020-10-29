@@ -23,10 +23,10 @@
     },
     {
       "id" : 2,
-      "nome: gui canos,
-      "telefone: 61 5234-4673,
-      "avaliaçao: 3,
-      "categoria_id: 1	
+      "nome": gui canos,
+      "telefone": 61 5234-4673,
+      "avaliaçao": 3,
+      "categoria_id": 1	
     },	
     {
       "id" : 3,
@@ -37,10 +37,10 @@
     },
         {
       "id" : 4,
-      "nome: rafa canos,
-      "telefone: 61 5234-5479,
-      "avaliaçao: 3,
-      "categoria_id: 1	
+      "nome": rafa canos,
+      "telefone": 61 5234-5479,
+      "avaliaçao": 3,
+      "categoria_id": 1	
     },	
     {
       "id" : 5,
@@ -51,37 +51,37 @@
     },	
     {
       "id" : 6,
-      "nome: maria porta,
-      "telefone: 61 5234-4324,
-      "avaliaçao: 3,
-      "categoria_id: 3
+      "nome": maria porta,
+      "telefone": 61 5234-4324,
+      "avaliaçao": 3,
+      "categoria_id": 3
     },	
     {
       "id" : 7,
-      "nome: luiza fios,
-      "telefone: 61 5234-6788,
-      "avaliaçao: 5,
-      "categoria_id: 2	
+      "nome": luiza fios,
+      "telefone": 61 5234-6788,
+      "avaliaçao": 5,
+      "categoria_id": 2	
     },	
     {
       "id" 8: ,
-      "nome: jorge chaveiro,
-      "telefone: 61 5234-8967,
-      "avaliaçao: 1,
-      "categoria_id: 3	
+      "nome": jorge chaveiro,
+      "telefone": 61 5234-8967,
+      "avaliaçao": 1,
+      "categoria_id": 3	
     },	
     {
       "id" : 9,
-      "nome: san agua,
-      "telefone: 61 5234-4231,
-      "avaliaçao: 3,
-      "categoria_id: 1	
+      "nome": san agua,
+      "telefone": 61 5234-4231,
+      "avaliaçao": 3,
+      "categoria_id": 1	
     },
     {
       "id" : 10,
-      "nome: yago choque,
-      "telefone: 61 5234-9034,
-      "avaliaçao: 5,
-      "categoria_id: 2	
+      "nome": yago choque,
+      "telefone": 61 5234-9034,
+      "avaliaçao": 5,
+      "categoria_id": 2	
     },				
 }
