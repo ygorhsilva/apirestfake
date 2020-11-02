@@ -88,6 +88,24 @@
       "senha": "ddssad",
       "categoria_id": 1,
       "id": 11
+    },
+    {
+      "nome": "ygor",
+      "email": "bgfs@asdas.com",
+      "senha": "65756",
+      "id": 12
+    },
+    {
+      "nome": "yuri",
+      "email": "ntys@asdas.com",
+      "senha": "31231",
+      "id": 13
+    },
+    {
+      "nome": "yago",
+      "email": "gfdg@asdas.com",
+      "senha": "56451",
+      "id": 14
     }
   ],
   "categorias": [
@@ -101,26 +119,6 @@
     },
     {
       "nome": "Chaveiro",
-      "id": 3
-    }
-  ],
-  "usuarios": [
-    {
-      "nome": "ygor",
-      "email": "bgfs@asdas.com",
-      "senha": "65756",
-      "id": 1
-    },
-    {
-      "nome": "yuri",
-      "email": "ntys@asdas.com",
-      "senha": "31231",
-      "id": 2
-    },
-    {
-      "nome": "yago",
-      "email": "gfdg@asdas.com",
-      "senha": "56451",
       "id": 3
     }
   ]
