@@ -92,36 +92,36 @@
   ],
   "categorias": [
     {
-      "id": 1,
-      "nome": "Encanador"
+      "nome": "Encanador",
+      "id": 1
     },
     {
-      "id": 2,
-      "nome": "Eletricista"
+      "nome": "Eletricista",
+      "id": 2
     },
     {
-      "id": 3,
-      "nome": "Chaveiro"
+      "nome": "Chaveiro",
+      "id": 3
     }
   ],
   "usuarios": [
     {
-      "id": 1,
       "nome": "ygor",
       "email": "bgfs@asdas.com",
-      "senha": "65756"
+      "senha": "65756",
+      "id": 1
     },
     {
-      "id": 2,
       "nome": "yuri",
       "email": "ntys@asdas.com",
-      "senha": "31231"
+      "senha": "31231",
+      "id": 2
     },
     {
-      "id": 3,
       "nome": "yago",
       "email": "gfdg@asdas.com",
-      "senha": "56451"
+      "senha": "56451",
+      "id": 3
     }
   ]
 }
