@@ -1,77 +1,96 @@
 {
   "servicos": [
     {
-      "id" : 1,
       "nome": "joao chave",
       "telefone": 6152344234,
-      "avaliacao": 5,
-      "categoria_id": 3	
+      "email": "hfgger",
+      "senha": "u746534",
+      "categoria_id": 3,
+      "id": 1
     },
     {
-      "id" : 2,
+      
       "nome": "gui canos",
       "telefone": 6152344673,
-      "avaliacao": 3,
-      "categoria_id": 1	
-    },	
+      "email": "gfdgd",
+      "senha": "635634",
+      "categoria_id": 1,
+      "id": 2
+    },
     {
-      "id" : 3,
       "nome": "caio fios",
       "telefone": 6152347532,
-      "avaliacao": 4,
-      "categoria_id": 2	
+      "email": "bdgfwe",
+      "senha": "vcdbffv",
+      "categoria_id": 2,
+      "id": 3
     },
     {
-      "id" : 4,
       "nome": "rafa canos",
       "telefone": 6152345479,
-      "avaliacao": 3,
-      "categoria_id": 1	
-    },	
-    {
-      "id" : 5,
-      "nome": "rafa encanamento",
-      "telefone": 6152346754,
-      "avaliacao": 2,
-      "categoria_id": 1	
-    },	
-    {
-      "id" : 6,
-      "nome":" maria chave",
-      "telefone": 6152344324,
-      "avaliacao": 3,
-      "categoria_id": 3
-    },	
-    {
-      "id" : 7,
-      "nome":" luiza fios",
-      "telefone": 6152346788,
-      "avaliacao": 5,
-      "categoria_id": 2	
-    },	
-    {
-      "id": 8,
-      "nome": "jorge chaveiro",
-      "telefone": 6152348967,
-      "avaliacao": 1,
-      "categoria_id": 3	
-    },	
-    {
-      "id" : 9,
-      "nome": "san agua",
-      "telefone": 6152344231,
-      "avaliacao": 3,
-      "categoria_id": 1	
+      "email": "fbcvcb",
+      "senha": "bvcbc",
+      "categoria_id": 1,
+      "id": 4
     },
     {
-      "id" : 10,
-      "nome":" yago choque",
+      "nome": "rafa encanamento",
+      "telefone": 6152346754,
+      "email": "mnbwe",
+      "senha": "ewqeq",
+      "categoria_id": 1,
+      "id": 5
+    },
+    {
+      "nome": " maria chave",
+      "telefone": 6152344324,
+      "email": "vbvbf",
+      "senha": "oiuuer",
+      "categoria_id": 3,
+      "id": 6
+    },
+    {
+      "nome": " luiza fios",
+      "telefone": 6152346788,
+      "email": "bvcwe",
+      "senha": "mugdcr",
+      "categoria_id": 2,
+      "id": 7
+    },
+    {
+      "nome": "jorge chaveiro",
+      "telefone": 6152348967,
+      "email": "vxcvx",
+      "senha": "vzxcv",
+      "categoria_id": 3,
+      "id": 8
+    },
+    {
+      "nome": "san agua",
+      "telefone": 6152344231,
+      "email": "gnfsvsd",
+      "senha": "fdbs",
+      "categoria_id": 1,
+      "id": 9
+    },
+    {
+      "nome": " yago choque",
       "telefone": 6152349034,
-      "avaliacao": 5,
-      "categoria_id": 2	
+      "email": "ngfrv",
+      "senha": "bgffaa",
+      "categoria_id": 2,
+      "id": 10
+    },
+    {
+      "name": "ygor",
+      "telefone": "1242342",
+      "email": "fdsvsgsdf",
+      "senha": "ddssad",
+      "categoria_id": 1,
+      "id": 11
     }
-   ],
-   "categorias": [
+  ],
+  "categorias": [
     {
       "id": 1,
       "nome": "Encanador"
@@ -84,25 +103,25 @@
       "id": 3,
       "nome": "Chaveiro"
     }
-   ],
-    "usuarios": [
+  ],
+  "usuarios": [
     {
       "id": 1,
       "nome": "ygor",
       "email": "bgfs@asdas.com",
-      "senha": 65756
+      "senha": "65756"
     },
     {
       "id": 2,
       "nome": "yuri",
       "email": "ntys@asdas.com",
-      "senha": 31231
+      "senha": "31231"
     },
     {
       "id": 3,
       "nome": "yago",
       "email": "gfdg@asdas.com",
-      "senha": 56451
+      "senha": "56451"
     }
   ]
 }
