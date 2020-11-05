@@ -3,7 +3,7 @@
     {
       "nome": "joao chave",
       "telefone": 6152344234,
-      "email": "hfgger",
+      "email": "joao@email.com",
       "senha": "u746534",
       "categoria_id": 3,
       "id": 1
@@ -12,7 +12,7 @@
       
       "nome": "gui canos",
       "telefone": 6152344673,
-      "email": "gfdgd",
+      "email": "gui@email.com",
       "senha": "635634",
       "categoria_id": 1,
       "id": 2
@@ -20,7 +20,7 @@
     {
       "nome": "caio fios",
       "telefone": 6152347532,
-      "email": "bdgfwe",
+      "email": "caio@email.com",
       "senha": "vcdbffv",
       "categoria_id": 2,
       "id": 3
@@ -28,7 +28,7 @@
     {
       "nome": "rafa canos",
       "telefone": 6152345479,
-      "email": "fbcvcb",
+      "email": "rafa@email.com",
       "senha": "bvcbc",
       "categoria_id": 1,
       "id": 4
@@ -36,7 +36,7 @@
     {
       "nome": "rafa encanamento",
       "telefone": 6152346754,
-      "email": "mnbwe",
+      "email": "rafa2@email.com",
       "senha": "ewqeq",
       "categoria_id": 1,
       "id": 5
@@ -44,7 +44,7 @@
     {
       "nome": " maria chave",
       "telefone": 6152344324,
-      "email": "vbvbf",
+      "email": "maria@email.com",
       "senha": "oiuuer",
       "categoria_id": 3,
       "id": 6
@@ -52,7 +52,7 @@
     {
       "nome": " luiza fios",
       "telefone": 6152346788,
-      "email": "bvcwe",
+      "email": "luiza@email.com",
       "senha": "mugdcr",
       "categoria_id": 2,
       "id": 7
@@ -60,7 +60,7 @@
     {
       "nome": "jorge chaveiro",
       "telefone": 6152348967,
-      "email": "vxcvx",
+      "email": "jorge@email.com",
       "senha": "vzxcv",
       "categoria_id": 3,
       "id": 8
@@ -68,7 +68,7 @@
     {
       "nome": "san agua",
       "telefone": 6152344231,
-      "email": "gnfsvsd",
+      "email": "san@email.com",
       "senha": "fdbs",
       "categoria_id": 1,
       "id": 9
@@ -76,7 +76,7 @@
     {
       "nome": " yago choque",
       "telefone": 6152349034,
-      "email": "ngfrv",
+      "email": "yago@email.com",
       "senha": "bgffaa",
       "categoria_id": 2,
       "id": 10
@@ -84,7 +84,7 @@
     {
       "name": "ygor",
       "telefone": "1242342",
-      "email": "fdsvsgsdf",
+      "email": "ygor@email.com",
       "senha": "ddssad",
       "categoria_id": 1,
       "id": 11
